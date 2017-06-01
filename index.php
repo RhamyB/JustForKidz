@@ -53,7 +53,6 @@
 							<li><a href="#">Donate</a></li>
 							<li><a href="#">Team</a></li>
 						  	<li><a href="blog.php">Blog</a></li>
-						  	<li><a href="elements.html">Elements</a></li>
 						</ul>
 						<ul class="icons">
 						  	<li><a href="https://twitter.com/just__for__kidz" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>

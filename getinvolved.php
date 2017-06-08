@@ -1,21 +1,12 @@
 <?php require 'header.php'; ?>
+<?php require 'nav.php'; ?>
 
-				<!-- Nav -->
-					<nav id="nav">
-						<ul class="links">
-							<li><a href="index.php">About</a></li>
-							<li><a href="projects.php">Projects</a></li>
-							<li class="active"><a href="getinvolved.php">Get Involved</a></li>
-							<li><a href="#">Donate</a></li>
-							<li><a href="#">Team</a></li>
-						  	<li><a href="blog.php">Blog</a></li>
-						</ul>
-						<ul class="icons">
-						  	<li><a href="https://twitter.com/just__for__kidz" target="_blank" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="https://www.facebook.com/jfkorg/" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-							<li><a href="https://www.instagram.com/jfkorg/" target="_blank" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-						</ul>
-					</nav>
+					<script type="text/javascript">
+					    window.onload = function()
+					    {
+					        document.getElementById("inv").classList.add("active");
+					    }
+					</script>
 
 				<!-- Main -->
 					<div id="main">

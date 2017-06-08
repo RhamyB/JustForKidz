@@ -28,10 +28,5 @@
 	<body class="is-loading">
 
 		<!-- Wrapper -->
-			<div id="wrapper">
-
-				<!-- Header -->
-					<header id="header">
-						<a href="index.php" class="logo">Just For Kidz</a>
-					</header>';
+			<div id="wrapper">';
 ?>

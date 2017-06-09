@@ -65,8 +65,8 @@
 										</div>
 										<div class="3u$">
 											<header>
-												<h3>Outreach</h3>
-												<p style="text-align: right;">Director of Stuff</p>
+												<h3>Amaia Cook</h3>
+												<p style="text-align: right;">Director of Outreach</p>
 											</header>
 										</div>
 									</div>

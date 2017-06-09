@@ -26,7 +26,7 @@
 										(2016-Present)</a></h2>
 									</header>
 									<a href="#" class="image fit"><img src="images/pic02.jpg" alt="" /></a>
-									<p>According to the World Literacy Foundation, 1 in 5 people in the world cannot read or write. Amnesty International has named education a fundemental right and one of the top-priority children's rights to fight for. In efforts to expand our international impact and advance children's educational rights, Just For Kidz has selected Good Hope Orphanage as the beneficiary of our next project term. We are fundraising to build a secondary school (8th-12th grade) for 716 orphans and poor kids in the village so that they can escape the cycle of poverty and receive a college education. The orphanage will provide accomodations, shelter, and care for about 217 more orphans.</p>
+									<p>In efforts to expand our international impact and advance children's educational rights, Just For Kidz has selected Good Hope Orphanage as the beneficiary of our next project term. We are fundraising to build a secondary school (8th-12th grade) for 716 orphans and poor kids in the village so that they can escape the cycle of poverty and receive a college education. The orphanage will provide accomodations, shelter, and care for about 217 more orphans.</p>
 								</article>
 								<article>
 									<header>

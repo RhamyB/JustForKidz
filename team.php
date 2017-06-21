@@ -23,7 +23,7 @@
 										<div class="3u">
 											<header>
 												<h3>Meghana Bharadwaj</h3>
-												<p style="text-align: right;">Executive Director</p>
+												<p style="text-align: right;">Founder &amp; Executive Director</p>
 											</header>
 										</div>
 										<div class="3u">

@@ -1,35 +1,41 @@
 <?php echo'<!-- Footer -->
 					<footer id="footer">
-						<section style="margin: 10px;">
-							<!-- Begin MailChimp Signup Form -->
+						<section>
+							<center>
+								<h2>Join our mailing list</h2>
+							</center>
 							<form action="//jfkorg.us16.list-manage.com/subscribe/post?u=ffec1f87c2fcc1d783cb8f946&amp;id=21d1c25c56" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-							    <div id="mc_embed_signup_scroll">
-								<h2>Subscribe to our mailing list</h2>
-							<div class="field">
-								<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-							</label>
-								<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-							</div>
-							<br />
-							<div class="field">
-								<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
-							</label>
-								<input type="text" value="" name="FNAME" class="required" id="mce-FNAME">
-							</div>
-							<br />
-							<div class="field">
-								<label for="mce-LNAME">Last Name  <span class="asterisk">*</span>
-							</label>
-								<input type="text" value="" name="LNAME" class="required" id="mce-LNAME">
-							</div>
-							<br />
-								<div id="mce-responses" class="clear">
+								<div class="field">
+									<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
+									</label>
+									<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" />
+								</div>
+								<br />
+								<div class="field">
+									<label for="mce-FNAME">First Name  <span class="asterisk">*</span>
+									</label>
+									<input type="text" value="" name="FNAME" class="required" id="mce-FNAME" />
+								</div>
+								<br />
+								<div class="field">
+									<label for="mce-LNAME">Last Name  <span class="asterisk">*</span>
+									</label>
+									<input type="text" value="" name="LNAME" class="required" id="mce-LNAME" />
+								</div>
+					    		<br />
+					    		<div class="field">
+					    			<ul class="actions">
+										<li><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" /></li>
+									</ul>
+					    		</div>
+					    		<br />
+								<div id="mce-responses">
 									<div class="response" id="mce-error-response" style="display:none"></div>
 									<div class="response" id="mce-success-response" style="display:none"></div>
-								</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-							    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_ffec1f87c2fcc1d783cb8f946_21d1c25c56" tabindex="-1" value=""></div>
-							    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-							    </div>
+								</div>
+					    		<div style="position: absolute; left: -5000px;" aria-hidden="true">
+					    			<input type="text" name="b_ffec1f87c2fcc1d783cb8f946_21d1c25c56" tabindex="-1" value="" />
+					    		</div>
 							</form>
 							<!--End mc_embed_signup-->
 						</section>
@@ -60,12 +66,15 @@
 
 				<!-- Copyright -->
 					<div id="copyright">
-						<ul><li>&copy;&nbsp;
+						<ul>
+							<li>&copy;&nbsp;
 							<script type="text/javascript">
                     		var d = new Date()
                      		document.write(d.getFullYear())
                     		</script>&nbsp;
-                    		Just For Kidz Org</li></ul>
+                    		Just For Kidz Org</li>
+                    		<li>Developed by <a href="https://my.vanderbilt.edu/rhamy/" target="_blank">Rhamy Belayachi</a></li>
+                    	</ul>
 					</div>
 
 			</div>

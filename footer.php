@@ -50,8 +50,8 @@
 							<section>
 								<h3>Social</h3>
 								<ul class="icons alt">
-									<li><a href="https://twitter.com/just__for__kidz" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
 									<li><a href="https://www.facebook.com/jfkorg/" class="icon alt fa-facebook"><span class="label">Facebook</span></a></li>
+									<li><a href="https://twitter.com/just__for__kidz" class="icon alt fa-twitter"><span class="label">Twitter</span></a></li>
 									<li><a href="https://www.instagram.com/jfkorg/" class="icon alt fa-instagram"><span class="label">Instagram</span></a></li>
 								</ul>
 							</section>

@@ -31,7 +31,7 @@
 					                    <a href="about.php">
 					                        <h2>About</h2>
 				                    	</a>
-				                        <p>Helping under-privileged youth become the future of tomorrow is the mission of Just For Kidz. Not only that, but giving the younger generation a voice and a chance to succeed is also our focus.</p>
+				                        <p>Helping under-privileged youth become the future of tomorrow is the mission of Just For Kidz. Not only that, but giving the younger generation a voice and a chance to succeed is also our focus. Learn more <a href="about.php">here</a>.</p>
 				                    </section>
 				                </div>
 				                <div class="6u">
@@ -40,7 +40,7 @@
 				                        <a href="projects.php">
 				                        	<h2>Impact</h2>
 				                    	</a>
-				                        <p>We make a meaningful difference through <a href="projects.php">projects</a> and programs worldwide. Nationally, our chapters span coast to coast from Irvine, California to Ithaca, New York.</p>
+				                        <p>We make a meaningful difference through <a href="projects.php">projects</a> and recurring programs, such as Stack the Snacks, worldwide. Nationally, our chapters span coast to coast from Irvine, California to Ithaca, New York.</p>
 				                    </section>
 				                </div>
 				            </div>

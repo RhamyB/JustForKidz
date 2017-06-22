@@ -14,7 +14,7 @@
 						<!-- Post -->
 							<section class="post">
 								<header class="major">
-									<h1>Executive Board</h1>
+									<h1>Managing Directors</h1>
 									<p>Meet the leaders that make Just For Kidz possible.</p>
 								</header>
 								

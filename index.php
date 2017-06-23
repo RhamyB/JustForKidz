@@ -60,7 +60,7 @@
 					                <div class="6u">
 					                    <section class="special box">
 					                        <span style="color: #f9ff60; -webkit-text-stroke: 3px #212931;"><i class="icon fa-inbox fa-4x"></i></span>
-					                        <a href="blog.php">
+					                        <a href="blog/1/">
 					                        	<h2>News &amp; Blog</h2>
 					                        </a>
 					                        <p>Stay updated with events, efforts, news, and content relevant to Just For Kidz <a href="blog/1/">here</a>. Better yet, sign up for our mailing list at the <a href="#footer">bottom left of this page</a> to never miss an update!</p>

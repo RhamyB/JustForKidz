@@ -33,7 +33,7 @@
 										<h2>Port-au-Prince, Haiti<br />
 										(2014-15)</h2>
 									</header>
-									<span class="image fit"><img src="images/Tanzania.jpg" alt="Haiti" /></span>
+									<span class="image fit"><img src="images/Haiti.png" alt="Haiti" /></span>
 									<p>Just For Kidz collected clothing and shoes to donate to an orphanage in Port-au-Prince that helps about 30 boys and girls. Collecting a total of 4 boxes of clothes and shoes, the Founder personally delivered the clothes and shoes and distributed it among the children as their Christmas presents!</p>
 								</article>
 								<article>

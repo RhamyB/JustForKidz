@@ -15,13 +15,13 @@
 							<article class="post featured">
 								<header class="major">
 									<span class="date">June 22, 2017</span>
-									<h2><a href="mission.php">Behind JFK's<br />
+									<h2><a href="../mission.php">Behind JFK's<br />
 									mission</a></h2>
 									<p>Reasoning and statistics behind why we do what we do.</p>
 								</header>
-								<a href="mission.php" class="image main"><img src="../../images/kids.png" alt="Kids" /></a>
+								<a href="../mission.php" class="image main"><img src="../../images/kids.png" alt="Kids" /></a>
 								<ul class="actions">
-									<li><a href="mission.php" class="button big">Full Story</a></li>
+									<li><a href="../mission.php" class="button big">Full Story</a></li>
 								</ul>
 							</article>
 

@@ -1,5 +1,9 @@
-<?php require 'header.php'; ?>
-<?php require 'nav.php'; ?>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Just For Kidz &bull; Major Projects</title>
+		<?php require 'header.php'; ?>
+		<?php require 'nav.php'; ?>
 
 					<script type="text/javascript">
 					    window.onload = function()

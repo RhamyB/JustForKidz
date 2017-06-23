@@ -1,4 +1,8 @@
-<?php require 'header.php'; ?>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Just For Kidz &bull; Offical Landing Page</title>
+		<?php require 'header.php'; ?>
 
 				<!-- Intro -->
 					<div id="intro">

@@ -107,17 +107,25 @@
 										</div>
 										<div class="3u$">
 											<header>
-												<span class="image fit"><img class="circle" src="images/headshots/michelle.png" alt="Michelle Lam" /></span>
-												<h3 style="text-align: center;">Michelle Lam</h3>
-												<p style="text-align: center;">Technology</p>
+												<span class="image fit"><img class="circle" src="images/headshots/hannah.jpg" alt="Hannah Belayachi" /></span>
+												<h3 style="text-align: center;">Hannah Belayachi</h3>
+												<p style="text-align: center;">Public Relations</p>
 											</header>
 										</div>
+										
 										<!-- Break -->
 										<div class="3u">
 											<header>
 												<span class="image fit"><img class="circle" src="images/headshots/viraj.jpg" alt="Viraj Attre" /></span>
 												<h3 style="text-align: center;">Viraj Attre</h3>
 												<p style="text-align: center;">Operations</p>
+											</header>
+										</div>
+										<div class="3u">
+											<header>
+												<span class="image fit"><img class="circle" src="images/headshots/michelle.png" alt="Michelle Lam" /></span>
+												<h3 style="text-align: center;">Michelle Lam</h3>
+												<p style="text-align: center;">Technology</p>
 											</header>
 										</div>
 									</div>

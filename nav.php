@@ -11,7 +11,7 @@
 							<li id="proj"><a href="projects.php">Projects</a></li>
 							<li id="inv"><a href="getinvolved.php">Get Involved</a></li>
 							<li id="team"><a href="team.php">Team</a></li>
-						  	<li id="blog"><a href="blog.php">Blog</a></li>
+						  	<li id="blog"><a href="blog/1/">Blog</a></li>
 						  	<li id="donate"><a href="#">Donate</a></li>
 						</ul>
 						<ul class="icons">

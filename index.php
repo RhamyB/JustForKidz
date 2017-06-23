@@ -63,7 +63,7 @@
 					                        <a href="blog.php">
 					                        	<h2>News &amp; Blog</h2>
 					                        </a>
-					                        <p>Stay updated with events, efforts, news, and content relevant to Just For Kidz <a href="blog.php">here</a>. Better yet, sign up for our mailing list at the <a href="#footer">bottom left of this page</a> to never miss an update!</p>
+					                        <p>Stay updated with events, efforts, news, and content relevant to Just For Kidz <a href="blog/1/">here</a>. Better yet, sign up for our mailing list at the <a href="#footer">bottom left of this page</a> to never miss an update!</p>
 					                    </section>
 					                </div>
 					            </div>

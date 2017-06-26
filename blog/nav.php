@@ -12,7 +12,7 @@
 							<li id="inv"><a href="../../getinvolved.php">Get Involved</a></li>
 							<li id="team"><a href="../../team.php">Team</a></li>
 						  	<li id="blog"><a href="../../blog/1/">Blog</a></li>
-						  	<li id="donate"><a href="#">Donate</a></li>
+						  	<li id="donate"><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZF769BFDRZEK4">Donate</a></li>
 						</ul>
 						<ul class="icons">
 							<li><a href="https://www.facebook.com/jfkorg/" target="_blank" class="icon fa-facebook"><span class="label">Facebook</span></a></li>

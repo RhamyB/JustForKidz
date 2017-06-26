@@ -65,7 +65,7 @@
 										<!-- Break -->
 										<div class="3u">
 											<header>
-												<span class="image fit"><img class="circle" src="images/pic09.jpg" alt="Abigail Wolfe" /></span>
+												<span class="image fit"><img class="circle" src="images/headshots/anjan.jpg" alt="Anjan Vinod" /></span>
 												<h3 style="text-align: center;">Anjan Vinod</h3>
 												<p style="text-align: center;">Finance</p>
 											</header>

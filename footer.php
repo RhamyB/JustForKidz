@@ -51,7 +51,7 @@
 							</section>
 							<section>
 								<h3>Email</h3>
-								<p><a href="mailto:info.jfkorg@gmail.com">info.jfkorg@gmail.com</a></p>
+								<p><a href="mailto:info@jfkorg.org">info@jfkorg.org</a></p>
 							</section>
 							<section>
 								<h3>Social</h3>

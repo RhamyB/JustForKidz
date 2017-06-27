@@ -6,7 +6,7 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul class="links">
-							<li id="home"><a href="index.php">Home</a></li>
+							<li id="home"><a href="/">Home</a></li>
 							<li id="about"><a href="about.php">About</a></li>
 							<li id="proj"><a href="projects.php">Projects</a></li>
 							<li id="inv"><a href="getinvolved.php">Get Involved</a></li>

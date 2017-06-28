@@ -1,6 +1,6 @@
 <?php echo'<!-- Header -->
 					<header id="header">
-						<a href="index.php" class="logo">Just For Kidz</a>
+						<a href="/" class="logo">Just For Kidz</a>
 					</header>
 
 				<!-- Nav -->

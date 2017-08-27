@@ -77,7 +77,19 @@
 												<p style="text-align: center;">Development</p>
 											</header>
 										</div>
+										<div class="3u">
+											<header>
+												<span class="image fit"><img class="circle" src="images/headshots/jade.jpg" alt="Jade Wong" /></span>
+												<h3 style="text-align: center;">Jade Wong</h3>
+												<p style="text-align: center;">Programs</p>
+											</header>
+										</div>
 										<div class="3u$">
+											<header>
+												<span class="image fit"><img class="circle" src="images/headshots/jesus.jpg" alt="Jesus Ruiz" /></span>
+												<h3 style="text-align: center;">Jesus Ruiz</h3>
+												<p style="text-align: center;">Advocay and Awareness</p>
+											</header>
 										</div>
 									</div>
 								</div>
@@ -130,6 +142,13 @@
 												<span class="image fit"><img class="circle" src="images/headshots/michelle.png" alt="Michelle Lam" /></span>
 												<h3 style="text-align: center;">Michelle Lam</h3>
 												<p style="text-align: center;">Technology</p>
+											</header>
+										</div>
+										<div class="3u$">
+											<header>
+												<span class="image fit"><img class="circle" src="images/headshots/sahaj.jpg" alt="Sahaj Shah" /></span>
+												<h3 style="text-align: center;">Sahaj Shah</h3>
+												<p style="text-align: center;">Programs</p>
 											</header>
 										</div>
 									</div>

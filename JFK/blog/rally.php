@@ -1,0 +1,83 @@
+<?php require 'header.php'; ?>
+<?php require 'nav.php'; ?>	
+
+					<script type="text/javascript">
+					    window.onload = function()
+					    {
+					        document.getElementById("blog").classList.add("active");
+					    }
+
+					    function goBack() {
+						    window.history.back();
+						}
+					</script>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<section class="post">
+								<header class="major">
+									<span class="date">August 27, 2017</span>
+									<h2>Children's Rights<br />
+									Rally Platform</h2>
+									<p>The official platform of the Children's Rights Rally, our official partner.</p>
+								</header>
+								<p>The following article was written by Hannah Belayachi, Content Creator for Public Relations, and edited by Chaltu Musse, Director of Public Relations.</p>
+								<div class="box">
+									<p>Children in the United States represent a unique demographic: while they may be citizens, their underage status modifies their ability to fully exercise, advocate for, and fulfill their rights until they become adults, making them highly vulnerable. As such, it is imperative that children’s rights are clearly defined and fiercely defended.Created in 1989, the United Nations Convention of the Rights of a Child (UNCRC) elaborates on global standards for inalienable rights that children are entitled to—such as the right to education, the right to access adequate healthcare, and the right to freedom of discrimination. However, children across the United States often lack the resources, support, and systemic structures that would otherwise guarantee these rights to them.</p>
+									<p>Just For Kidz is proud to partner with The Children’s Rights Rally as Youth Lead Organizer and Official Partner. Indicated in our namesake, JFK is dedicated to improving the lives of children both in the United States and abroad.</p>
+									<p>The Children’s Rights Rally (formerly the Children’s March on Washington) took place on August 12th, International Youth Day in Washington D.C.! The event’s purpose was to encourage youth to be civically engaged in their communities and to stand up for their basic human rights. It was a massive success and a great first step to building the children’s movement. Our youth speakers and youth panel gave wonderful messages about bullying, protecting the environment, disability rights and more.</p>
+									<p>In our partnership with The Children’s Rights Rally, Just For Kidz has crafted an official platform listing integral children’s rights as defined by the UNCRC, the current situation in the US, and our demands for change. We had Voices of America, a major broadcasting company, come in and feature us and our Platform was a hit! Check out the 10 key issues from the platform below and see how you can read and learn more!</p>
+									<hr />
+									<h2 style="text-align: center;">The Children's Rights Rally Official Platform</h2>
+									<h3>I.&#9;Non-discrimination</h3>
+									<p><strong>Articles: </strong>Article 2 states that all states should protect and take adequate measures to protect the rights of children regardless of race, color, sex, language, religion, political or other opinion, nationality or ethnicity, social origin, property, disability, birth or other status.</p>
+									<p><strong>Issues: </strong>In the United States, even with Constitutional guarantees of equal protection under the law of all citizens, unequal distribution of opportunities and resources, systemic racism, classism, sexism, and prejudice against those of certain backgrounds or identities prevent every child from enjoying their rights equally.</p>
+									<p><strong>Demands: </strong>Non-discrimination is an overarching demand of the Children’s March. The United States should make efforts to secure, guarantee, and protect those rights equally regardless of race, class, sex, gender, sexual orientation, language, religion, political ideology, nationality, ethnicity, disability status, or circumstances of birth. All government organizations, agencies, and institutions should continuously work everyday to improve the lives of children, by advocating for policies that benefit all children.</p>
+									<h3>II.&#9;Education</h3>
+									<p><span class="image left"><img src="../images/blog_education.png"></span><strong>Articles: </strong>Articles 28 and 29 guarantee children the right to accessible education and the State’s role in ensuring that education is affordable and accessible for all children. It encourages educational facilities to preserve children’s fundamental dignity and cater to the development of children’s fullest potential, personality, and various backgrounds or identities.</p>
+									<p><strong>Issues: </strong>In the United States, access to quality public education is still very unequal, with extremely racially segregated schools and differences in the quantity and quality of resources between schools in rich and poor neighborhoods. The standard of education in providing opportunities to explore various educational fields and prepare students to reach their fullest potential is still lacking. Diversity and cultural education is inadequate. Many students are stripped of their rights and dignity through restrictions and extreme disciplining.</p>
+									<p><strong>Demands: </strong>The United States must work to make the access and quality of education equitable for all children. It must remove the barriers of a quality education for those of racially and economically disadvantaged backgrounds. It must constantly work to improve the standard and reach of student’s education and ensure that the rights and fundamental dignity of all students are preserved and preserved equally.</p>
+									<h3>III.&#9;Youth Food Insecurity and Nutrition</h3>
+									<p><strong>Articles: </strong>Articles 24 and 27 require states to ensure adequate provision of nutritious foods and clean drinking-water as part of their basic standard of living, and that they should take appropriate measures to assist guardians with providing needed support and knowledge particularly with items such as nutrition.</p>
+									<p><strong>Issues: </strong>Hunger and food security remains an issue in America; the inability to access food is often times coupled with the inability to access nutritious food. This often affects marginalized races and lower income backgrounds disproportionately. The standard of food provided in U.S. public schools is subpar, failing nutritionally. U.S. Children do not receive comprehensive nutrition education.</p>
+									<p><strong>Demands: </strong>The government should maintain and expand governmental assistance programs such as Food Stamps and Free and Reduced Price Lunches at school. School lunches should meet all dietary requirements of a well balanced, fresh, and healthy meal and schools should create nutrition education curriculum. The U.S. government must make a concerted effort to ensure an equal distribution of healthy food options in all communities.</p>
+									<h3>IV.&#9;Juvenile Justice</h3>
+									<p><strong>Articles: </strong>Article 37 and 40 protect children from cruelty and injustice in the juvenile justice system and guarantees children their due process rights and fair treatment. Governments are required to set a minimum age below which children cannot be held criminally responsible and to provide minimum guarantees for the fairness and quick resolution of judicial or alternative proceedings.</p>
+									<p><strong>Issues: </strong>The United States still has the highest rate for youth confinement. The school-to-prison pipeline criminalizes youth behavior with disciplinary policies that closely resemble policing. Youth of color are disproportionately affected by these policies. Youth in the juvenile justice system face terrible conditions in detentions, a lack of basic due process, and little support or opportunities for rehabilitation.</p>
+									<p><strong>Demands: </strong>The United States and its various agencies and organizations should work to eliminate the criminalization of youth behavior and police brutality, offer a fairer juvenile justice system that does not disproportionately affect marginalized youth, promote child-friendly justice and restorative justice, and increase assistance for children in the court system. It must create raise-the-age policies and policies that ensure rehabilitation programs and support systems for incarcerated youth and their families.</p>
+									<h3>V.&#9;Healthcare and the Environment</h3>
+									<p><strong>Articles: </strong>Articles 23 and 24 ensures that children have the right to the highest attainable standard of health and healthcare facilities and the right to information and knowledge regarding health. The standard of healthcare includes a right to nutritious food, clean drinking water, and a clean environment. It also provides special protection and services for disabled children.</p>
+									<p><strong>Issues: </strong>The current administration’s budget cuts make clear threats to programs like Children’s Health Insurance Program and Medicaid that provide financial assistance for medical care for children and families in need. Global warming and environmental damage threaten a safe and stable future for children. Many children here and abroad still lack access to clean drinking water. Many disabled children are unable to reach their fullest potential due to resources and facilities excluding them.</p>
+									<p><strong>Demands: </strong>The United States government must maintain and expand funding and resources for CHIP and Medicaid. It must take active steps towards reducing the effects of climate change in order to have a safe and unpolluted planet for children’s future. It must develop and promote Sustainable, affordable and accessible methods to access clean drinking water. Disabled children must be included in all resources and services for their fullest possible social integration and individual development.</p>
+									<h3>VI.&#9;Safety, Shelter, and Parental Involvement</h3>
+									<p><span class="image right"><img src="../images/blog_safety.png"></span><strong>Articles: </strong>Articles 6, 9, 18, 19, 20, and 27 state that all children have a right to a basic standard of living. They protect children from abuse and violence and require that the government provide additional support to children who are affected by such crimes or are temporarily or permanently displaced from their families and homes.</p>
+									<p><strong>Issues: </strong>Not all children in the United States enjoy the same basic standard of living. Many children suffer from abuse, maltreatment and violence and many more are homeless. The adoption and foster care system are inadequate in providing for the survival and healthy development of children.</p>
+									<p><strong>Demands: </strong>The United States must create and assist in maintaining a basic standard of living for all children. It must work to end all forms of abuse, neglect, maltreatment, violence in the home, and child homelessness. It should promote policies and gear resources towards improving the foster care and adoption systems while also increasing the quantity and quality of support systems for children affected by an unstable or atypical family environment.</p>
+									<h3>VII.&#9;Youth Mental Health</h3>
+									<p><strong>Articles: </strong>Article 17, 27, and 29 recognize children’s rights and standard of living regarding their emotional, mental, social and educational development. Children’s education must cater to their personality, talents, and mental abilities. States must recognize the positive and negative impacts of mass media on children and work to protect children’s well-being.</p>
+									<p><strong>Issues: </strong>Too many children are dealing with mental health issues. Inadequate support resources and individuals for children, a lack of awareness education, bullying and cyberbullying, and lack of knowledge regarding unique mental health challenges faced by children of different backgrounds further the issue.</p>
+									<p><strong>Demands: </strong>Too many children are dealing with mental health issues. Inadequate support resources and individuals for children, a lack of awareness education, bullying and cyberbullying, and lack of knowledge regarding unique mental health challenges faced by children of different backgrounds further the issue.</p>
+									<h3>VIII.&#9;Youth Exploitation</h3>
+									<p><strong>Articles: </strong>Articles 11, 32, 34, 35, and 36, protect children from being kidnapped and forced into systems of pornography, prostitution, slavery, underage marriage, labor, and other systems that take advantage of them and harms their development and welfare.</p>
+									<p><strong>Issues: </strong>The U.S. does not have harsh and strong legislation that protects children from being kidnapped and sold into such industries. Early and forced child marriage and child labor continue to be a problem in the United States and around the world.</p>
+									<p><strong>Demands: </strong>U.S. lawmakers should create and implement stronger laws that protect children from falling into these systems and provide rehabilitation and support to those who have been a part of such systems already. The U.S. should provide sanctuary to any victims of these systems internationally.</p>
+									<h3>IX.&#9;Children's Legal Issues</h3>
+									<p><strong>Articles: </strong>Articles 3 and 42 acknowledge that governments should make the Convention known to adults and children. Adults should help children learn about their rights as well and always work to protect the best interests of children.</p>
+									<p><strong>Issues: </strong>In the United States, foster care systems, adoption agencies, child witnesses, custody battles, children with incarcerated family members, situations involving undocumented children or parents, and immigration issues are some of the many instances where children are victims of the legal system. These children receive little to no assistance or support in dealing with these issues and their lack of ability to express themselves and their opinions often leads to outcomes that are unfavorable to the survival and healthy development of children.</p>
+									<p><strong>Demands: </strong>The United States government should guarantee all children receive proper education about their rights and provide adequate support systems and resources for child victims in the court system. Their views should never be ignored because of their age, gender, race, class, disabilities, or citizenship status. The United States government should protect the fundamental human rights of immigrant and undocumented children and keep their best interests in mind during legal situations.</p>
+									<h3>X.&#9;Youth Participation and Representation</h3>
+									<p><strong>Articles: </strong>Articles 3, 12, 13, and 17, state that children have the right to have access to mass information, as well as the right to voice and express their thoughts, especially when it comes to legislation that directly affects them. These opinions should be taken into consideration in order for adults to make decisions about children’s best interests.</p>
+									<p><strong>Issues: </strong>The U.S. does not provide understandable and accessible mass information to children and  disregards children’s  opinions due to children’s perceived lack of development. Legislators, members of the judicial branch, bureaucratic agencies, and other organizations often ignore the best interest of children even when dealing with matters that affect them.</p>
+									<p><strong>Demands: </strong>All organizations and governmental institutions should respect and understand the opinions of children, and create official and recognized avenues for them to voice their opinions, especially their views on legislative, judicial, legal, or policy issues affecting them. They should provide children with mass access to understandable information so that they will be able to formulate their own opinions adequately.</p>
+									<hr />
+									<p>Just For Kidz is excited for our partnership with the Children’s Rights Rally. We recognize the work to be done for the advocacy and promotion of Children’s Rights.</p>
+								</div>
+								<div class="pagination">
+									<a href="#" onclick="goBack();return false;" class="previous">Back</a>
+								</div>
+							</section>
+					</div>
+
+<?php require 'footer.php'; ?>

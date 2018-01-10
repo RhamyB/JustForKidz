@@ -14,19 +14,29 @@
 						<!-- Featured Post -->
 							<article class="post featured">
 								<header class="major">
-									<span class="date">August 27, 2017</span>
-									<h2><a href="../rally.php">Children's Rights<br />
-									Rally Platform</h2>
-									<p style="text-align: center;">The official platform of the Children's Rights Rally, our official partner.</p>
+									<span class="date">October 5, 2017</span>
+									<h2><a href="../academics.php">Academics Convene to<br />Discuss Children's<br />Rights and Geographies</a></h2>
 								</header>
-								<a href="../rally.php" class="image main"><img src="../../images/rally.jpg" alt="Children's Rights Rally" /></a>
+								<a href="../academics.php" class="image main"><img src="../../images/academics.jpg" alt="Children's Conference" /></a>
 								<ul class="actions">
-									<li><a href="../rally.php" class="button big">Full Story</a></li>
+									<li><a href="../academics.php" class="button big">Full Story</a></li>
 								</ul>
 							</article>
 
 						
 							<section class="posts">
+								<article>
+									<header>
+										<span class="date">August 27, 2017</span>
+										<h2><a href="../rally.php">Children's Rights<br />
+									Rally Platform</a></h2>
+									</header>
+									<a href="../rally.php" class="image main"><img src="../../images/rally.jpg" alt="Children's Rights Rally" /></a>
+									<p style="text-align: center;">The official platform of the Children's Rights Rally, our official partner.</p>
+									<ul class="actions">
+										<li><a href="../rally.php" class="button big">Full Story</a></li>
+									</ul>
+								</article>
 								<article>
 									<header>
 										<span class="date">June 22, 2017</span>

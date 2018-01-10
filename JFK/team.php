@@ -64,9 +64,9 @@
 										</div>
 										<div class="2u">
 											<header>
-												<span class="image fit"><img class="circle" src="images/headshots/anjan.jpg" alt="Anjan Vinod" /></span>
-												<h3 style="text-align: center;">Anjan Vinod</h3>
-												<p style="text-align: center;">Finance</p>
+												<span class="image fit"><img class="circle" src="images/headshots/chaltu.jpg" alt="Chaltu Musse" /></span>
+												<h3 style="text-align: center;">Chaltu Musse</h3>
+												<p style="text-align: center;">Public Relations</p>
 											</header>
 										</div>
 										<div class="2u$">
@@ -84,18 +84,11 @@
 												<p style="text-align: center;">Programs</p>
 											</header>
 										</div>
-										<div class="2u">
+										<div class="2u$">
 											<header>
 												<span class="image fit"><img class="circle" src="images/headshots/jesus.jpg" alt="Jesus Ruiz" /></span>
 												<h3 style="text-align: center;">Jesus Ruiz</h3>
 												<p style="text-align: center;">Advocay and Awareness</p>
-											</header>
-										</div>
-										<div class="2u$">
-											<header>
-												<span class="image fit"><img class="circle" src="images/headshots/chaltu.jpg" alt="Chaltu Musse" /></span>
-												<h3 style="text-align: center;">Chaltu Musse</h3>
-												<p style="text-align: center;">Public Relations</p>
 											</header>
 										</div>
 									</div>
@@ -137,9 +130,9 @@
 										</div>
 										<div class="2u">
 											<header>
-												<span class="image fit"><img class="circle" src="images/headshots/viraj.jpg" alt="Viraj Attre" /></span>
-												<h3 style="text-align: center;">Viraj Attre</h3>
-												<p style="text-align: center;">Operations</p>
+												<span class="image fit"><img class="circle" src="images/headshots/sahaj.jpg" alt="Sahaj Shah" /></span>
+												<h3 style="text-align: center;">Sahaj Shah</h3>
+												<p style="text-align: center;">Programs</p>
 											</header>
 										</div>
 										<div class="2u$">
@@ -147,13 +140,6 @@
 												<span class="image fit"><img class="circle" src="images/headshots/michelle.png" alt="Michelle Lam" /></span>
 												<h3 style="text-align: center;">Michelle Lam</h3>
 												<p style="text-align: center;">Technology</p>
-											</header>
-										</div>
-										<div class="2u$">
-											<header>
-												<span class="image fit"><img class="circle" src="images/headshots/sahaj.jpg" alt="Sahaj Shah" /></span>
-												<h3 style="text-align: center;">Sahaj Shah</h3>
-												<p style="text-align: center;">Programs</p>
 											</header>
 										</div>
 									</div>
